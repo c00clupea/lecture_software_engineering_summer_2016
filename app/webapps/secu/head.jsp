@@ -23,6 +23,8 @@
     <li><a href="mailing.secu">mailinglist</a></li>
     <li><a href="newsletter.secu">newsletter</a></li>
     <li><a href="help.secu">FAQ / Helptopics</a> </li>
+    <li><a href="test.secu">Number Analyse</a> </li>
+
 </ul>
 
 <div id="Inhalt">
